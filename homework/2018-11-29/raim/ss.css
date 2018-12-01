@@ -1,0 +1,19 @@
+body{
+    font-size: 24px;
+}
+
+.main{
+    width: 800ps;
+    margin: 40px auto:
+
+}
+
+a{
+    border: 1px solid red;
+    display: inline-block;
+    height: 60px;
+    text-decoration: none;
+    line-height: 60px;
+    vertical-align: bottom;
+o
+}
