@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kssda-python.iml" filepath="$PROJECT_DIR$/.idea/kssda-python.iml" />
+      <module fileurl="file://$USER_HOME$/tmp/raimdj.zokisoft.com/.idea/raimdj.zokisoft.com.iml" filepath="$USER_HOME$/tmp/raimdj.zokisoft.com/.idea/raimdj.zokisoft.com.iml" />
+      <module fileurl="file://$USER_HOME$/tmp/tot/.idea/tot.iml" filepath="$USER_HOME$/tmp/tot/.idea/tot.iml" />
+    </modules>
+  </component>
+</project>
